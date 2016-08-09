@@ -6,3 +6,5 @@ ls - list files/folders in or under current directory
 cd - change directories
 git checkout -b - adds branch and switches to it
 git push - submits changes
+git diff - shows differences bet the master branch and the working branch
+git pull - pull repos from Git hub 
