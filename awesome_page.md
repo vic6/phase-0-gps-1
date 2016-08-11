@@ -1,5 +1,4 @@
-![Alt text](/Users/nightspeller/Desktop/Screen Shot 2016-08-08 work of Victor and JC .png "Screen Shot work of Victor and JC ")
-
+![working together](/Users/Victor/Desktop/Screen Shot 2016-08-08 at 6.46.40 PM.png)
 <!-- right click image , press option copy path name 
  -->
 **We are the best coder!**
